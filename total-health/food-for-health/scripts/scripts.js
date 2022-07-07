@@ -620,7 +620,7 @@ function buildHeroBlock(main) {
 
 function loadHeader(header) {
   const headerBlock = buildBlock('header', [
-    ['<div>Nav</div>', '<div>/northern-california/health-wellness/cancer-care/nav</div>'],
+    ['<div>Nav</div>', '<div>/total-health/food-for-health/nav</div>'],
   ]);
   header.append(headerBlock);
   decorateBlock(headerBlock);
@@ -629,7 +629,7 @@ function loadHeader(header) {
 
 function loadFooter(footer) {
   const footerBlock = buildBlock('footer', [
-    ['<div>Footer</div>', '<div>/northern-california/health-wellness/cancer-care/footer</div>'],
+    ['<div>Footer</div>', '<div>/total-health/food-for-health/footer</div>'],
   ]);
   footer.append(footerBlock);
   decorateBlock(footerBlock);
@@ -688,7 +688,7 @@ function redirectToSpanishSite() {
 }
 
 async function buildLanguageModal() {
-  const resp = await fetch('/northern-california/health-wellness/cancer-care/language-picker.plain.html');
+  const resp = await fetch('/total-health/food-for-health/language-picker.plain.html');
   const html = await resp.text();
   // build modal
   const modal = document.createElement('aside');
