@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f1100d-e2af-46d5-95c4-29b4036c442d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/cards/cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/cards/cards.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/cards/cards.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/columns/columns.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/columns/columns.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/columns/columns.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/columns/columns.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/example/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/example/example.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/example/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/example/example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/footer/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/fragment/fragment.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/fragment/fragment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/header/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/hero/hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/hero/hero.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/hero/hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/hero/hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/list/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/list/list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/list/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/list/list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/quote/quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/quote/quote.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/quote/quote.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/quote/quote.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/toc/toc.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/toc/toc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/toc/toc.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/blocks/toc/toc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/colorectal.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/colorectal.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/connected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/connected.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/experimental.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/experimental.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/facebook.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/favicon.webp" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/favicon.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/hpv.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/hpv.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/instagram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/instagram.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/kp-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/kp-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/kp-mobile-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/kp-mobile-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/mammogram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/mammogram.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/personalized.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/personalized.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/pinterest.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/pinterest.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/pm-blue.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/pm-blue.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/pm-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/pm-white.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/radiation.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/radiation.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/signin.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/signin.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/specialized.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/specialized.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/surgery.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/surgery.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/tobacco.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/tobacco.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/twitter.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/icons/youtube.svg" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/icons/youtube.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/scripts/delayed.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/scripts/delayed.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/scripts/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/scripts/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/styles/lazy-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/styles/lazy-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/total-health/food-for-health/contributors/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/total-health/food-for-health/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/importer/scrapper/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tools/importer/scrapper/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,26 +18,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/northern-california/health-wellness/cancer-care/scripts/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6792">
-              <caret line="639" column="39" selection-start-line="639" selection-start-column="39" selection-end-line="639" selection-end-column="39" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/tools/importer/import-structure-content.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/total-health/food-for-health/scripts/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="722" column="13" selection-start-line="722" selection-start-column="13" selection-end-line="722" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/total-health/food-for-health/icons/hpv.svg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -92,6 +49,7 @@
       <find>care</find>
       <find>northe</find>
       <find>cancer</find>
+      <find>health</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/northern-california</dir>
@@ -108,6 +66,8 @@
         <option value="$PROJECT_DIR$/total-health/food-for-health/contributors/scripts/scripts.js" />
         <option value="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/scripts/scripts.js" />
         <option value="$PROJECT_DIR$/total-health/food-for-health/scripts/scripts.js" />
+        <option value="$PROJECT_DIR$/head.html" />
+        <option value="$PROJECT_DIR$/tools/importer/scrapper/index.js" />
       </list>
     </option>
   </component>
@@ -143,52 +103,46 @@
             <path>
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
-              <item name="northern-california" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
               <item name="northern-california" type="462c0819:PsiDirectoryNode" />
-              <item name="health-wellness" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
-              <item name="northern-california" type="462c0819:PsiDirectoryNode" />
-              <item name="health-wellness" type="462c0819:PsiDirectoryNode" />
-              <item name="cancer-care" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
-              <item name="total-health" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="importer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
-              <item name="total-health" type="462c0819:PsiDirectoryNode" />
-              <item name="food-for-health" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
-              <item name="total-health" type="462c0819:PsiDirectoryNode" />
-              <item name="food-for-health" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="importer" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
               <item name="total-health" type="462c0819:PsiDirectoryNode" />
-              <item name="food-for-health" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
-              <item name="total-health" type="462c0819:PsiDirectoryNode" />
-              <item name="food-for-health" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,41 +216,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/cards/cards.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/cards/cards.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/blocks/footer/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-908" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/icons/colorectal.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/icons/connected.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/icons/experimental.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/icons/favicon.webp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/icons/hpv.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/icons/youtube.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/icons/twitter.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/scripts/delayed.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/total-health/food-for-health/contributors/styles/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3664" />
@@ -306,13 +225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="168" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fstab.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -330,15 +242,180 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/icons/hpv.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/scripts/delayed.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/total-health/food-for-health/scripts/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="722" column="13" selection-start-line="722" selection-start-column="13" selection-end-line="722" selection-end-column="13" />
+        <state relative-caret-position="1792">
+          <caret line="769" column="25" lean-forward="true" selection-start-line="769" selection-start-column="25" selection-end-line="769" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/icons/hpv.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/fragment/fragment.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/header/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2327" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/quote/quote.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/quote/quote.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/list/list.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/list/list.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/cards/cards.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/cards/cards.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/columns/columns.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/columns/columns.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/example/example.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/example/example.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2897" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/footer/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-602">
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/fragment/fragment.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total-health/food-for-health/blocks/header/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/scripts/body.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/scripts/config.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/blocks/header/header.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/blocks/header/nav.plain.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/run-tests.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/run-tests-on-fork.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/about-kp.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="151" column="19" selection-start-line="151" selection-start-column="19" selection-end-line="151" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15510">
+          <caret line="1034" column="8" lean-forward="true" selection-start-line="1034" selection-start-column="8" selection-end-line="1034" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helix-query.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fstab.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODE_OF_CONDUCT.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.stylelintrc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.renovaterc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.hlxignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/importer/import-structure-content.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

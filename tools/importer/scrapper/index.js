@@ -12,7 +12,7 @@ async function asyncForEach(array, callback) {
 }
 
 async function getURLs() {
-  const res = await fetch('https://main--healthy-kp--hlxsites.hlx.page/_drafts/import/structure-pages-urls.json?limit=1100');
+  const res = await fetch('https://main--about-kp--tejpaltechy.hlx.page/_drafts/import/structure-pages-urls.json?limit=1100');
   const json = await res.json();
   return json.data.map(({ URL }) => URL);
 }
