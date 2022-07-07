@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f1100d-e2af-46d5-95c4-29b4036c442d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/importer/scrapper/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tools/importer/scrapper/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/cards/cards.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/cards/cards.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/columns/columns.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/columns/columns.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/example/example.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/example/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/footer/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/footer/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/fragment/fragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/header/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/header/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/hero/hero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/hero/hero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/list/list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/list/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/quote/quote.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/quote/quote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/toc/toc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/blocks/toc/toc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/colorectal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/connected.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/experimental.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/favicon.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/hpv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/kp-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/kp-mobile-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/mammogram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/personalized.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/pinterest.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/pm-blue.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/pm-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/radiation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/signin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/specialized.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/surgery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/tobacco.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/icons/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/scripts/delayed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/scripts/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/styles/lazy-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/northern-california/health-wellness/cancer-care/styles/styles.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+            <state relative-caret-position="493">
+              <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -119,11 +162,6 @@
             <path>
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
-              <item name="northern-california" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -143,6 +181,27 @@
               <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
               <item name="about-kp" type="462c0819:PsiDirectoryNode" />
               <item name="total-health" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
+              <item name="total-health" type="462c0819:PsiDirectoryNode" />
+              <item name="food-for-health" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
+              <item name="total-health" type="462c0819:PsiDirectoryNode" />
+              <item name="food-for-health" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="about-kp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="about-kp" type="462c0819:PsiDirectoryNode" />
+              <item name="total-health" type="462c0819:PsiDirectoryNode" />
+              <item name="food-for-health" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="footer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -412,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tools/importer/scrapper/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        <state relative-caret-position="493">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
         </state>
       </provider>
     </entry>
